@@ -1,0 +1,158 @@
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\bin\Debug\INV_ID.exe.config
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\bin\Debug\INV_ID.exe
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\bin\Debug\INV_ID.pdb
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\bin\Debug\LLRP.dll
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\bin\Debug\RFID.dll
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\bin\Debug\LLRP.pdb
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\bin\Debug\RFID.pdb
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.csprojResolveAssemblyReference.cache
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.Properties.Resources.resources
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.csproj.GenerateResource.Cache
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.csproj.CoreCompileInputs.cache
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.exe
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.pdb
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.menu.resources
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.login.resources
+F:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\INV_ID.exe.config
+F:\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.exe
+F:\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.pdb
+F:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\INV_ID.exe
+F:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\INV_ID.pdb
+F:\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.csprojResolveAssemblyReference.cache
+F:\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.login.resources
+F:\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.menu.resources
+F:\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.Properties.Resources.resources
+F:\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.csproj.GenerateResource.Cache
+F:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\MetroFramework.Design.dll
+F:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\MetroFramework.dll
+F:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hugo.s.barragon\Desktop\INV_ID\INV_ID\bin\Debug\INV_ID.exe.config
+C:\Users\hugo.s.barragon\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.exe
+C:\Users\hugo.s.barragon\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.pdb
+C:\Users\hugo.s.barragon\Desktop\INV_ID\INV_ID\bin\Debug\INV_ID.exe
+C:\Users\hugo.s.barragon\Desktop\INV_ID\INV_ID\bin\Debug\INV_ID.pdb
+C:\Users\hugo.s.barragon\Desktop\INV_ID\INV_ID\bin\Debug\MetroFramework.Design.dll
+C:\Users\hugo.s.barragon\Desktop\INV_ID\INV_ID\bin\Debug\MetroFramework.dll
+C:\Users\hugo.s.barragon\Desktop\INV_ID\INV_ID\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hugo.s.barragon\Desktop\INV_ID\INV_ID\bin\Debug\LLRP.pdb
+C:\Users\hugo.s.barragon\Desktop\INV_ID\INV_ID\bin\Debug\RFID.pdb
+C:\Users\hugo.s.barragon\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.csprojResolveAssemblyReference.cache
+C:\Users\hugo.s.barragon\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.menu.resources
+C:\Users\hugo.s.barragon\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.Properties.Resources.resources
+C:\Users\hugo.s.barragon\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.csproj.GenerateResource.Cache
+C:\Users\hugo.s.barragon\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.login.resources
+C:\Users\hugo.s.barragon\Desktop\INV_ID\INV_ID\bin\Debug\LLRP.dll
+C:\Users\hugo.s.barragon\Desktop\INV_ID\INV_ID\bin\Debug\RFID.dll
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\INV_ID\bin\Debug\INV_ID.exe.config
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\INV_ID\bin\Debug\INV_ID.exe
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\INV_ID\bin\Debug\INV_ID.pdb
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\INV_ID\bin\Debug\LLRP.dll
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\INV_ID\bin\Debug\MetroFramework.Design.dll
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\INV_ID\bin\Debug\MetroFramework.dll
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\INV_ID\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\INV_ID\bin\Debug\RFID.dll
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\INV_ID\bin\Debug\LLRP.pdb
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\INV_ID\bin\Debug\RFID.pdb
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\INV_ID\obj\Debug\INV_ID.csprojResolveAssemblyReference.cache
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\INV_ID\obj\Debug\INV_ID.login.resources
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\INV_ID\obj\Debug\INV_ID.menu.resources
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\INV_ID\obj\Debug\INV_ID.Properties.Resources.resources
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\INV_ID\obj\Debug\INV_ID.csproj.GenerateResource.Cache
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\INV_ID\obj\Debug\INV_ID.csproj.CoreCompileInputs.cache
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\INV_ID\obj\Debug\INV_ID.exe
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\INV_ID\obj\Debug\INV_ID.pdb
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\bin\Debug\MetroFramework.Design.dll
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\bin\Debug\MetroFramework.dll
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\bin\Debug\MySql.Data.dll
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\bin\Debug\MySql.Data.xml
+F:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\MySql.Data.dll
+F:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\MySql.Data.xml
+C:\Users\Barragon-Desktop\Desktop\INV_ID\INV_ID\bin\Debug\INV_ID.exe.config
+C:\Users\Barragon-Desktop\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.exe
+C:\Users\Barragon-Desktop\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.pdb
+C:\Users\Barragon-Desktop\Desktop\INV_ID\INV_ID\bin\Debug\INV_ID.exe
+C:\Users\Barragon-Desktop\Desktop\INV_ID\INV_ID\bin\Debug\INV_ID.pdb
+C:\Users\Barragon-Desktop\Desktop\INV_ID\INV_ID\bin\Debug\MetroFramework.Design.dll
+C:\Users\Barragon-Desktop\Desktop\INV_ID\INV_ID\bin\Debug\MetroFramework.dll
+C:\Users\Barragon-Desktop\Desktop\INV_ID\INV_ID\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Barragon-Desktop\Desktop\INV_ID\INV_ID\bin\Debug\MySql.Data.dll
+C:\Users\Barragon-Desktop\Desktop\INV_ID\INV_ID\bin\Debug\LLRP.pdb
+C:\Users\Barragon-Desktop\Desktop\INV_ID\INV_ID\bin\Debug\MySql.Data.xml
+C:\Users\Barragon-Desktop\Desktop\INV_ID\INV_ID\bin\Debug\RFID.pdb
+C:\Users\Barragon-Desktop\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.csprojResolveAssemblyReference.cache
+C:\Users\Barragon-Desktop\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.login.resources
+C:\Users\Barragon-Desktop\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.menu.resources
+C:\Users\Barragon-Desktop\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.Properties.Resources.resources
+C:\Users\Barragon-Desktop\Desktop\INV_ID\INV_ID\obj\Debug\INV_ID.csproj.GenerateResource.Cache
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\INV_ID.exe.config
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.exe
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.pdb
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\INV_ID.exe
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\INV_ID.pdb
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\LLRP.dll
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\MetroFramework.Design.dll
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\MetroFramework.dll
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\MetroFramework.Fonts.dll
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\MySql.Data.dll
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\RFID.dll
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\LLRP.pdb
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\MySql.Data.xml
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\RFID.pdb
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.csprojResolveAssemblyReference.cache
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.login.resources
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.menu.resources
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.Properties.Resources.resources
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.csproj.GenerateResource.Cache
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.csproj.CoreCompileInputs.cache
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\CryptSharp.dll
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\CryptSharp.pdb
+E:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\CryptSharp.xml
+F:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\CryptSharp.dll
+F:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\CryptSharp.pdb
+F:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\CryptSharp.xml
+F:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\LLRP.pdb
+F:\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\RFID.pdb
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\bin\Debug\CryptSharp.dll
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\bin\Debug\CryptSharp.pdb
+C:\Users\TESP DS\Desktop\INV_ID\INV_ID\bin\Debug\CryptSharp.xml
+C:\Users\Barragon-Desktop\Desktop\pen_backup\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\INV_ID.exe.config
+C:\Users\Barragon-Desktop\Desktop\pen_backup\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\INV_ID.exe
+C:\Users\Barragon-Desktop\Desktop\pen_backup\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\INV_ID.pdb
+C:\Users\Barragon-Desktop\Desktop\pen_backup\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\CryptSharp.dll
+C:\Users\Barragon-Desktop\Desktop\pen_backup\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\MetroFramework.Design.dll
+C:\Users\Barragon-Desktop\Desktop\pen_backup\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\MetroFramework.dll
+C:\Users\Barragon-Desktop\Desktop\pen_backup\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Barragon-Desktop\Desktop\pen_backup\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\MySql.Data.dll
+C:\Users\Barragon-Desktop\Desktop\pen_backup\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\CryptSharp.pdb
+C:\Users\Barragon-Desktop\Desktop\pen_backup\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\CryptSharp.xml
+C:\Users\Barragon-Desktop\Desktop\pen_backup\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\LLRP.pdb
+C:\Users\Barragon-Desktop\Desktop\pen_backup\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\MySql.Data.xml
+C:\Users\Barragon-Desktop\Desktop\pen_backup\UA\3Semestre\Projeto\INV_ID\INV_ID\bin\Debug\RFID.pdb
+C:\Users\Barragon-Desktop\Desktop\pen_backup\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.csprojResolveAssemblyReference.cache
+C:\Users\Barragon-Desktop\Desktop\pen_backup\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.login.resources
+C:\Users\Barragon-Desktop\Desktop\pen_backup\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.menu.resources
+C:\Users\Barragon-Desktop\Desktop\pen_backup\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.Properties.Resources.resources
+C:\Users\Barragon-Desktop\Desktop\pen_backup\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.csproj.GenerateResource.Cache
+C:\Users\Barragon-Desktop\Desktop\pen_backup\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.exe
+C:\Users\Barragon-Desktop\Desktop\pen_backup\UA\3Semestre\Projeto\INV_ID\INV_ID\obj\Debug\INV_ID.pdb
+C:\Users\Barragon-Desktop\Desktop\Github\rfid-InvID\INV_ID\bin\Debug\INV_ID.exe.config
+C:\Users\Barragon-Desktop\Desktop\Github\rfid-InvID\INV_ID\obj\Debug\INV_ID.exe
+C:\Users\Barragon-Desktop\Desktop\Github\rfid-InvID\INV_ID\obj\Debug\INV_ID.pdb
+C:\Users\Barragon-Desktop\Desktop\Github\rfid-InvID\INV_ID\bin\Debug\INV_ID.exe
+C:\Users\Barragon-Desktop\Desktop\Github\rfid-InvID\INV_ID\bin\Debug\INV_ID.pdb
+C:\Users\Barragon-Desktop\Desktop\Github\rfid-InvID\INV_ID\bin\Debug\CryptSharp.dll
+C:\Users\Barragon-Desktop\Desktop\Github\rfid-InvID\INV_ID\bin\Debug\MetroFramework.Design.dll
+C:\Users\Barragon-Desktop\Desktop\Github\rfid-InvID\INV_ID\bin\Debug\MetroFramework.dll
+C:\Users\Barragon-Desktop\Desktop\Github\rfid-InvID\INV_ID\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Barragon-Desktop\Desktop\Github\rfid-InvID\INV_ID\bin\Debug\MySql.Data.dll
+C:\Users\Barragon-Desktop\Desktop\Github\rfid-InvID\INV_ID\bin\Debug\CryptSharp.pdb
+C:\Users\Barragon-Desktop\Desktop\Github\rfid-InvID\INV_ID\bin\Debug\CryptSharp.xml
+C:\Users\Barragon-Desktop\Desktop\Github\rfid-InvID\INV_ID\bin\Debug\LLRP.pdb
+C:\Users\Barragon-Desktop\Desktop\Github\rfid-InvID\INV_ID\bin\Debug\MySql.Data.xml
+C:\Users\Barragon-Desktop\Desktop\Github\rfid-InvID\INV_ID\bin\Debug\RFID.pdb
+C:\Users\Barragon-Desktop\Desktop\Github\rfid-InvID\INV_ID\obj\Debug\INV_ID.csprojResolveAssemblyReference.cache
+C:\Users\Barragon-Desktop\Desktop\Github\rfid-InvID\INV_ID\obj\Debug\INV_ID.login.resources
+C:\Users\Barragon-Desktop\Desktop\Github\rfid-InvID\INV_ID\obj\Debug\INV_ID.menu.resources
+C:\Users\Barragon-Desktop\Desktop\Github\rfid-InvID\INV_ID\obj\Debug\INV_ID.Properties.Resources.resources
+C:\Users\Barragon-Desktop\Desktop\Github\rfid-InvID\INV_ID\obj\Debug\INV_ID.csproj.GenerateResource.Cache

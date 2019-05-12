@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>OpenSans</id>
+    <version>1.0.1</version>
+    <title>Open Sans (Font)</title>
+    <authors>Steve Matteson (http://www.monotype.com/studio/steve-matteson)</authors>
+    <owners>Steve Matteson (http://www.monotype.com/studio/steve-matteson)</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>http://github.com/ashmind/OpenSans.nupkg</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is a NuGet package for font 'Open Sans'.  
+    The font is installed into /fonts/OpenSans folder.
+
+    The package does not include any CSS.</description>
+    <summary />
+    <releaseNotes>Removed web.config transform (use HTML5.Setup package instead).</releaseNotes>
+    <tags>font</tags>
+  </metadata>
+</package>
